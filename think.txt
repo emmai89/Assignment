@@ -1,0 +1,21 @@
+same in all
+-name
+
+same in country and state
+-name
+-area
+-pop
+-popRef
+
+country
+-language
+
+state
+-contry
+
+loaction
+-name
+-country
+-state
+-coords
+-description
